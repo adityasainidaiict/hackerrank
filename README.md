@@ -52,6 +52,8 @@ The following is a possibly innacurate list of the problems solved:
 
 ### Weekly Contests
 
+#### Week 1 - Dynamic Programming
+
 * Oobleck Boxes (`oobleck-boxes`)
 * Largest Sum Less Than M (`largest-sum-m`)
 
