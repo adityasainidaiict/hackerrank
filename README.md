@@ -57,4 +57,8 @@ The following is a possibly innacurate list of the problems solved:
 * Oobleck Boxes (`oobleck-boxes`)
 * Largest Sum Less Than M (`largest-sum-m`)
 
+#### Week 2
+
+* Walking on Grids (`walking-on-grids`)
+
 [1]: http://www.hackerrank.com
