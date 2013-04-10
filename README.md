@@ -61,4 +61,10 @@ The following is a possibly innacurate list of the problems solved:
 
 * Walking on Grids (`walking-on-grids`)
 
+### Montly Contests
+
+#### 20/20 Hack
+
+* Ice Cream Parlor (`icecream-parlor.cpp`)
+
 [1]: http://www.hackerrank.com
