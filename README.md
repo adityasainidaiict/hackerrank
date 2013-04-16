@@ -66,5 +66,6 @@ The following is a possibly innacurate list of the problems solved:
 #### 20/20 Hack
 
 * Ice Cream Parlor (`icecream-parlor.cpp`)
+* Alien Languages (`alien-languages.cpp`)
 
 [1]: http://www.hackerrank.com
