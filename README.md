@@ -67,5 +67,6 @@ The following is a possibly innacurate list of the problems solved:
 
 * Ice Cream Parlor (`icecream-parlor.cpp`)
 * Alien Languages (`alien-languages.cpp`)
+* Nice Clique (`nice-clique.cpp`)
 
 [1]: http://www.hackerrank.com
