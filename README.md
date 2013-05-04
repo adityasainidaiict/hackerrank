@@ -50,6 +50,10 @@ The following is a possibly innacurate list of the problems solved:
 
 * Grid Walking (`grid-walking`)
 
+#### Bit Manipulation
+
+* XOR key (`xor-key`)
+
 ### Weekly Contests
 
 #### Week 1 - Dynamic Programming
