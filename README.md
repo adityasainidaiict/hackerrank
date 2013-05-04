@@ -42,7 +42,7 @@ The following is a possibly innacurate list of the problems solved:
 * Median (`median`)
 * Flowers (`flowers`)
 
-### Dynamic Programming
+#### Dynamic Programming
 
 * Candies (`candies`)
 
