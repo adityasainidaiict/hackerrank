@@ -45,6 +45,7 @@ The following is a possibly innacurate list of the problems solved:
 #### Dynamic Programming
 
 * Candies (`candies`)
+* Stock Maximize (`stock-maximize`)
 
 #### Graph Theory
 
