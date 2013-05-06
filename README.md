@@ -38,6 +38,7 @@ The following is a possibly innacurate list of the problems solved:
 
 #### Search
 
+* Coin on the Table (`coin-on-the-table`)
 * Pairs (`pairs`)
 * Median (`median`)
 * Flowers (`flowers`)
