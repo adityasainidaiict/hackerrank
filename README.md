@@ -75,4 +75,8 @@ The following is a possibly innacurate list of the problems solved:
 * Alien Languages (`alien-languages.cpp`)
 * Nice Clique (`nice-clique.cpp`)
 
+#### 101 Hack
+
+* Common Child (`common-child`)
+
 [1]: http://www.hackerrank.com
