@@ -78,5 +78,6 @@ The following is a possibly innacurate list of the problems solved:
 #### 101 Hack
 
 * Common Child (`common-child`)
+* Mr K Marsh (`mr-k-marsh`)
 
 [1]: http://www.hackerrank.com
