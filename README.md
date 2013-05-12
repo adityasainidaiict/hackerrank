@@ -79,5 +79,6 @@ The following is a possibly innacurate list of the problems solved:
 
 * Common Child (`common-child`)
 * Mr K Marsh (`mr-k-marsh`)
+* Similar Pair (`similar-pair`)
 
 [1]: http://www.hackerrank.com
