@@ -46,6 +46,7 @@ The following is a possibly innacurate list of the problems solved:
 #### Dynamic Programming
 
 * Candies (`candies`)
+* Lego Blocks (`lego-blocks`)
 * Stock Maximize (`stock-maximize`)
 
 #### Graph Theory
