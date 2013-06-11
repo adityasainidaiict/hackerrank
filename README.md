@@ -82,6 +82,10 @@ The following is a possibly innacurate list of the problems solved:
 * [Mr K Marsh][mr-k-marsh] (`mr-k-marsh`)
 * [Similar Pair][similar-pair] (`similar-pair`)
 
+#### 20/20 Hack May
+
+* [Restaurant][restaurant] (`restaurant`)
+
 [1]: http://www.hackerrank.com
 [alien-languages]: http://www.hackerrank.com/contests/monthly/challenges/alien-languages
 [candies]: http://www.hackerrank.com/challenges/candies
@@ -106,3 +110,4 @@ The following is a possibly innacurate list of the problems solved:
 [stock-maximize]: http://www.hackerrank.com/challenges/stockmax
 [walking-on-grids]: http://www.hackerrank.com/challenges/walking-on-grids
 [xor-key]: http://www.hackerrank.com/challenges/xor-key
+[restaurant]: http://www.hackerrank.com/contests/may13/challenges/restaurant
