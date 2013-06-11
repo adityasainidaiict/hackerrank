@@ -93,6 +93,8 @@ The following is a possibly innacurate list of the problems solved:
 [candies]: http://www.hackerrank.com/challenges/candies
 [coin-on-the-table]: http://www.hackerrank.com/challenges/coin-on-the-table
 [common-child]: http://www.hackerrank.com/contests/101hack/challenges/common-child
+[cut-tree]: http://www.hackerrank.com/contests/may13/challenges/cutTree
+[equal]: http://www.hackerrank.com/contests/may13/challenges/equal
 [flowers]: http://www.hackerrank.com/challenges/flowers
 [grid-walking]: http://www.hackerrank.com/challenges/grid-walking
 [icecream-parlor]: http://www.hackerrank.com/contests/monthly/challenges/icecream-parlor
@@ -107,11 +109,9 @@ The following is a possibly innacurate list of the problems solved:
 [pairs]: http://www.hackerrank.com/challenges/pairs
 [quicksort1]: http://www.hackerrank.com/challenges/quicksort1
 [quicksort2]: http://www.hackerrank.com/challenges/quicksort2
+[restaurant]: http://www.hackerrank.com/contests/may13/challenges/restaurant
 [runningtime]: http://www.hackerrank.com/challenges/runningtime
 [similar-pair]: http://www.hackerrank.com/contests/101hack/challenges/similarpair
 [stock-maximize]: http://www.hackerrank.com/challenges/stockmax
 [walking-on-grids]: http://www.hackerrank.com/challenges/walking-on-grids
 [xor-key]: http://www.hackerrank.com/challenges/xor-key
-[restaurant]: http://www.hackerrank.com/contests/may13/challenges/restaurant
-[equal]: http://www.hackerrank.com/contests/may13/challenges/equal
-[cut-tree]: http://www.hackerrank.com/contests/may13/challenges/cutTree
