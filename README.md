@@ -85,6 +85,7 @@ The following is a possibly innacurate list of the problems solved:
 #### 20/20 Hack May
 
 * [Restaurant][restaurant] (`restaurant`)
+* [Equal][equal] (`equal`)
 
 [1]: http://www.hackerrank.com
 [alien-languages]: http://www.hackerrank.com/contests/monthly/challenges/alien-languages
@@ -111,3 +112,4 @@ The following is a possibly innacurate list of the problems solved:
 [walking-on-grids]: http://www.hackerrank.com/challenges/walking-on-grids
 [xor-key]: http://www.hackerrank.com/challenges/xor-key
 [restaurant]: http://www.hackerrank.com/contests/may13/challenges/restaurant
+[equal]: http://www.hackerrank.com/contests/may13/challenges/equal
