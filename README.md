@@ -30,56 +30,79 @@ The following is a possibly innacurate list of the problems solved:
 
 #### Algorithmic Tutorials
 
-* Insertion Sort - Part 1 (`insertionsort1`)
-* Insertion Sort - Part 2 (`insertionsort2`)
-* Running Time of Algorithms (`runningtime`)
-* QuickSort1 - Partition (`quicksort1`)
-* QuickSort (`quicksort2`)
+* [Insertion Sort - Part 1][insertionsort1] (`insertionsort1`)
+* [Insertion Sort - Part 2][insertionsort2] (`insertionsort2`)
+* [Running Time of Algorithms][runningtime] (`runningtime`)
+* [QuickSort1 - Partition][quicksort1] (`quicksort1`)
+* [QuickSort][quicksort2] (`quicksort2`)
 
 #### Search
 
-* Coin on the Table (`coin-on-the-table`)
-* Pairs (`pairs`)
-* Median (`median`)
-* Flowers (`flowers`)
+* [Pairs][pairs] (`pairs`)
+* [Coin on the Table][coin-on-the-table] (`coin-on-the-table`)
+* [Median][median] (`median`)
+* [Flowers][flowers] (`flowers`)
 
 #### Dynamic Programming
 
-* Candies (`candies`)
-* Lego Blocks (`lego-blocks`)
-* Stock Maximize (`stock-maximize`)
+* [Candies][candies] (`candies`)
+* [Lego Blocks][lego-blocks] (`lego-blocks`)
+* [Stock Maximize][stock-maximize] (`stock-maximize`)
 
 #### Graph Theory
 
-* Grid Walking (`grid-walking`)
+* [Grid Walking][grid-walking] (`grid-walking`)
 
 #### Bit Manipulation
 
-* XOR key (`xor-key`)
+* [XOR key][xor-key] (`xor-key`)
 
 ### Weekly Contests
 
 #### Week 1 - Dynamic Programming
 
-* Oobleck Boxes (`oobleck-boxes`)
-* Largest Sum Less Than M (`largest-sum-m`)
+* [Oobleck Boxes][oobleck-boxes] (`oobleck-boxes`)
+* [Largest Sum Less Than M][largest-sum-m] (`largest-sum-m`)
 
 #### Week 2 - Counting
 
-* Walking on Grids (`walking-on-grids`)
+* [Walking on Grids][walking-on-grids] (`walking-on-grids`)
 
 ### Montly Contests
 
-#### 20/20 Hack
+#### 20/20 Hack April
 
-* Ice Cream Parlor (`icecream-parlor.cpp`)
-* Alien Languages (`alien-languages.cpp`)
-* Nice Clique (`nice-clique.cpp`)
+* [Ice Cream Parlor][icecream-parlor] (`icecream-parlor.cpp`)
+* [Alien Languages][alien-languages] (`alien-languages.cpp`)
+* [Nice Clique][nice-clique] (`nice-clique.cpp`)
 
 #### 101 Hack
 
-* Common Child (`common-child`)
-* Mr K Marsh (`mr-k-marsh`)
-* Similar Pair (`similar-pair`)
+* [Common Child][common-child] (`common-child`)
+* [Mr K Marsh][mr-k-marsh] (`mr-k-marsh`)
+* [Similar Pair][similar-pair] (`similar-pair`)
 
 [1]: http://www.hackerrank.com
+[alien-languages]: http://www.hackerrank.com/contests/monthly/challenges/alien-languages
+[candies]: http://www.hackerrank.com/challenges/candies
+[coin-on-the-table]: http://www.hackerrank.com/challenges/coin-on-the-table
+[common-child]: http://www.hackerrank.com/contests/101hack/challenges/common-child
+[flowers]: http://www.hackerrank.com/challenges/flowers
+[grid-walking]: http://www.hackerrank.com/challenges/grid-walking
+[icecream-parlor]: http://www.hackerrank.com/contests/monthly/challenges/icecream-parlor
+[insertionsort1]: http://www.hackerrank.com/challenges/insertionsort1
+[insertionsort2]: http://www.hackerrank.com/challenges/insertionsort2
+[largest-sum-m]: http://www.hackerrank.com/challenges/largest-sum-m
+[lego-blocks]: http://www.hackerrank.com/challenges/lego-blocks
+[median]: http://www.hackerrank.com/challenges/median
+[mr-k-marsh]: http://www.hackerrank.com/contests/101hack/challenges/mr-k-marsh
+[nice-clique]: http://www.hackerrank.com/contests/monthly/challenges/niceClique
+[oobleck-boxes]: http://www.hackerrank.com/challenges/oobleck-boxes
+[pairs]: http://www.hackerrank.com/challenges/pairs
+[quicksort1]: http://www.hackerrank.com/challenges/quicksort1
+[quicksort2]: http://www.hackerrank.com/challenges/quicksort2
+[runningtime]: http://www.hackerrank.com/challenges/runningtime
+[similar-pair]: http://www.hackerrank.com/contests/101hack/challenges/similarpair
+[stock-maximize]: http://www.hackerrank.com/challenges/stockmax
+[walking-on-grids]: http://www.hackerrank.com/challenges/walking-on-grids
+[xor-key]: http://www.hackerrank.com/challenges/xor-key
