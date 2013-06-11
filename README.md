@@ -86,6 +86,7 @@ The following is a possibly innacurate list of the problems solved:
 
 * [Restaurant][restaurant] (`restaurant`)
 * [Equal][equal] (`equal`)
+* [Cut Tree][cut-tree] (`cut-tree`)
 
 [1]: http://www.hackerrank.com
 [alien-languages]: http://www.hackerrank.com/contests/monthly/challenges/alien-languages
@@ -113,3 +114,4 @@ The following is a possibly innacurate list of the problems solved:
 [xor-key]: http://www.hackerrank.com/challenges/xor-key
 [restaurant]: http://www.hackerrank.com/contests/may13/challenges/restaurant
 [equal]: http://www.hackerrank.com/contests/may13/challenges/equal
+[cut-tree]: http://www.hackerrank.com/contests/may13/challenges/cutTree
