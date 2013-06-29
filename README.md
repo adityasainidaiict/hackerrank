@@ -76,7 +76,7 @@ The following is a possibly innacurate list of the problems solved:
 * [Alien Languages][alien-languages] (`alien-languages.cpp`)
 * [Nice Clique][nice-clique] (`nice-clique.cpp`)
 
-#### 101 Hack
+#### 101 Hack May
 
 * [Common Child][common-child] (`common-child`)
 * [Mr K Marsh][mr-k-marsh] (`mr-k-marsh`)
@@ -87,6 +87,10 @@ The following is a possibly innacurate list of the problems solved:
 * [Restaurant][restaurant] (`restaurant`)
 * [Equal][equal] (`equal`)
 * [Cut Tree][cut-tree] (`cut-tree`)
+
+#### 101 Hack June
+
+* [Anagram][anagram] (`anagram`)
 
 [1]: http://www.hackerrank.com
 [alien-languages]: http://www.hackerrank.com/contests/monthly/challenges/alien-languages
@@ -115,3 +119,4 @@ The following is a possibly innacurate list of the problems solved:
 [stock-maximize]: http://www.hackerrank.com/challenges/stockmax
 [walking-on-grids]: http://www.hackerrank.com/challenges/walking-on-grids
 [xor-key]: http://www.hackerrank.com/challenges/xor-key
+[anagram]: https://www.hackerrank.com/contests/101june13/challenges/anagram
