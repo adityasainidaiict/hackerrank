@@ -92,6 +92,10 @@ The following is a possibly innacurate list of the problems solved:
 
 * [Anagram][anagram] (`anagram`)
 
+#### 20/20 Hack July
+
+* [Game Of Thrones - I][game-of-thrones] (`game-of-thrones`)
+
 [1]: http://www.hackerrank.com
 [alien-languages]: http://www.hackerrank.com/contests/monthly/challenges/alien-languages
 [candies]: http://www.hackerrank.com/challenges/candies
@@ -119,4 +123,5 @@ The following is a possibly innacurate list of the problems solved:
 [stock-maximize]: http://www.hackerrank.com/challenges/stockmax
 [walking-on-grids]: http://www.hackerrank.com/challenges/walking-on-grids
 [xor-key]: http://www.hackerrank.com/challenges/xor-key
-[anagram]: https://www.hackerrank.com/contests/101june13/challenges/anagram
+[anagram]: http://www.hackerrank.com/contests/101june13/challenges/anagram
+[game-of-thrones]: http://www.hackerrank.com/contests/july13/challenges/game-of-thrones
