@@ -95,6 +95,7 @@ The following is a possibly innacurate list of the problems solved:
 #### 20/20 Hack July
 
 * [Game Of Thrones - I][game-of-thrones] (`game-of-thrones`)
+* [Game Of Thrones - II][game-of-throne-ii] (`game-of-throne-ii`)
 
 [1]: http://www.hackerrank.com
 [alien-languages]: http://www.hackerrank.com/contests/monthly/challenges/alien-languages
@@ -125,3 +126,4 @@ The following is a possibly innacurate list of the problems solved:
 [xor-key]: http://www.hackerrank.com/challenges/xor-key
 [anagram]: http://www.hackerrank.com/contests/101june13/challenges/anagram
 [game-of-thrones]: http://www.hackerrank.com/contests/july13/challenges/game-of-thrones
+[game-of-throne-ii]: http://www.hackerrank.com/contests/july13/challenges/game-of-throne-ii
