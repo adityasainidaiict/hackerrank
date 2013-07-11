@@ -97,6 +97,7 @@ The following is a possibly innacurate list of the problems solved:
 * [Game Of Thrones - I][game-of-thrones] (`game-of-thrones`)
 * [Game Of Thrones - II][game-of-throne-ii] (`game-of-throne-ii`)
 * [Journey to Mars][ajourney] (`ajourney`)
+* [Hackerrank Number][hackerrank-number] (`hackerrank-number`)
 
 [1]: http://www.hackerrank.com
 [alien-languages]: http://www.hackerrank.com/contests/monthly/challenges/alien-languages
@@ -129,3 +130,4 @@ The following is a possibly innacurate list of the problems solved:
 [game-of-thrones]: http://www.hackerrank.com/contests/july13/challenges/game-of-thrones
 [game-of-throne-ii]: http://www.hackerrank.com/contests/july13/challenges/game-of-throne-ii
 [ajourney]: http://www.hackerrank.com/contests/july13/challenges/ajourney
+[hackerrank-number]: http://www.hackerrank.com/contests/july13/challenges/hackerrank-number
