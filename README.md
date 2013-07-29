@@ -31,6 +31,8 @@ The following is a possibly innacurate list of the problems solved:
 #### Bot Building
 
 * [Bot saves princess][saveprincess] (`saveprincess`)
+* [Bot saves princess - 2][saveprincess2] (`saveprincess2`)
+* [BotClean][botclean] (`botclean`)
 
 ### Algorithms
 
@@ -139,3 +141,6 @@ The following is a possibly innacurate list of the problems solved:
 [ajourney]: http://www.hackerrank.com/contests/july13/challenges/ajourney
 [computer-game]: http://www.hackerrank.com/contests/july13/challenges/computer-game
 [hackerrank-number]: http://www.hackerrank.com/contests/july13/challenges/hackerrank-number
+[saveprincess]: http://www.hackerrank.com/challenges/saveprincess
+[saveprincess2]: http://www.hackerrank.com/challenges/saveprincess2
+[botclean]: http://www.hackerrank.com/challenges/botclean
