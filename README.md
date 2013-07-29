@@ -34,6 +34,7 @@ The following is a possibly innacurate list of the problems solved:
 * [Bot saves princess - 2][saveprincess2] (`saveprincess2`)
 * [BotClean][botclean] (`botclean`)
 * [BotClean Partially Observable][botcleanv2] (`botcleanv2`)
+* [BotClean Stochastic][botcleanr] (`botcleanr`)
 
 ### Algorithms
 
@@ -146,3 +147,4 @@ The following is a possibly innacurate list of the problems solved:
 [saveprincess2]: http://www.hackerrank.com/challenges/saveprincess2
 [botclean]: http://www.hackerrank.com/challenges/botclean
 [botcleanv2]: http://www.hackerrank.com/challenges/botcleanv2
+[botcleanr]: http://www.hackerrank.com/challenges/botcleanr
