@@ -98,6 +98,6 @@ int main() {
         cin >> line;
         board += line;
     }
-    cout << getNextMove(board, bi, bj);
+    cout << getNextMove(board, bi, bj) << endl;
     return 0;
 }
