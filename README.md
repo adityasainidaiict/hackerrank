@@ -26,9 +26,15 @@ the next one, replacing `candies` with the id of the desired problem:
 
 The following is a possibly innacurate list of the problems solved:
 
-### Algorithmic Challenges
+### Artificial Intelligence
 
-#### Algorithmic Tutorials
+#### Bot Building
+
+* [Bot saves princess][saveprincess] (`saveprincess`)
+
+### Algorithms
+
+#### Sorting
 
 * [Insertion Sort - Part 1][insertionsort1] (`insertionsort1`)
 * [Insertion Sort - Part 2][insertionsort2] (`insertionsort2`)
