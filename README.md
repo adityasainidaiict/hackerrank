@@ -110,6 +110,10 @@ The following is a possibly innacurate list of the problems solved:
 * [Computer Game][computer-game] (`computer-game`)
 * [Hackerrank Number][hackerrank-number] (`hackerrank-number`)
 
+#### 20/20 Hack August
+
+* [Mark and Toys][mark-and-toys] (`mark-and-toys`)
+
 [1]: http://www.hackerrank.com
 [alien-languages]: http://www.hackerrank.com/contests/monthly/challenges/alien-languages
 [candies]: http://www.hackerrank.com/challenges/candies
@@ -148,3 +152,4 @@ The following is a possibly innacurate list of the problems solved:
 [botclean]: http://www.hackerrank.com/challenges/botclean
 [botcleanv2]: http://www.hackerrank.com/challenges/botcleanv2
 [botcleanr]: http://www.hackerrank.com/challenges/botcleanr
+[mark-and-toys]: http://www.hackerrank.com/contests/aug13/challenges/mark-and-toys
