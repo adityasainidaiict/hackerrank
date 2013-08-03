@@ -113,6 +113,7 @@ The following is a possibly innacurate list of the problems solved:
 #### 20/20 Hack August
 
 * [Mark and Toys][mark-and-toys] (`mark-and-toys`)
+* [A journey to the Moon][journey-to-the-moon] (`journey-to-the-moon`)
 
 [1]: http://www.hackerrank.com
 [alien-languages]: http://www.hackerrank.com/contests/monthly/challenges/alien-languages
@@ -153,3 +154,4 @@ The following is a possibly innacurate list of the problems solved:
 [botcleanv2]: http://www.hackerrank.com/challenges/botcleanv2
 [botcleanr]: http://www.hackerrank.com/challenges/botcleanr
 [mark-and-toys]: http://www.hackerrank.com/contests/aug13/challenges/mark-and-toys
+[journey-to-the-moon]: http://www.hackerrank.com/contests/aug13/challenges/journey-to-the-moon
