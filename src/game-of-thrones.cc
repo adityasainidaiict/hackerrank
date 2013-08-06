@@ -1,28 +1,12 @@
 #include <iostream>
-#include <string>
-#include <map>
-
+#include <bitset>
 using namespace std;
-
-bool hasAnagramPalindrome(string s) {
-    map<char, int> charCount;
-    for (unsigned int i = 0; i < s.size(); i++)
-        charCount[s[i]]++;
-
-    int oddCount = 0;
-    for (map<char, int>::iterator itr = charCount.begin();
-         itr != charCount.end();
-         itr++) {
-        if (itr->second % 2)
-            oddCount++;
-    }
-
-    return oddCount <= 1;
-}
-
-int main() {
-    string s;
-    cin >> s;
-    cout << (hasAnagramPalindrome(s) ? "YES" : "NO") << endl;
+int main() 
+{
+    char in;
+    bitset<26> A;
+    while(cin>>in) A.flip(in-'a');
+    if(A.count()<=1) cout<<"YES";
+    else cout<<"NO";
     return 0;
 }
