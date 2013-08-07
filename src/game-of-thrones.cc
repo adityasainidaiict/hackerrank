@@ -1,12 +1,13 @@
-#include <iostream>
 #include <bitset>
+#include <iostream>
+
 using namespace std;
-int main() 
-{
+
+int main() {
     char in;
     bitset<26> A;
-    while(cin>>in) A.flip(in-'a');
-    if(A.count()<=1) cout<<"YES";
-    else cout<<"NO";
+    while (cin>>in)
+        A.flip(in-'a');
+    cout << (A.count() <= 1 ? "YES" : "NO") << endl;
     return 0;
 }
