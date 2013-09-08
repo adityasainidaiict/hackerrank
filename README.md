@@ -115,6 +115,10 @@ The following is a possibly innacurate list of the problems solved:
 * [Mark and Toys][mark-and-toys] (`mark-and-toys`)
 * [A journey to the Moon][journey-to-the-moon] (`journey-to-the-moon`)
 
+#### 20/20 Hack September
+
+* [Sherlock and The Beast][sherlock-and-the-beast] (`sherlock-and-the-beast)
+
 [1]: http://www.hackerrank.com
 [alien-languages]: http://www.hackerrank.com/contests/monthly/challenges/alien-languages
 [candies]: http://www.hackerrank.com/challenges/candies
@@ -155,3 +159,4 @@ The following is a possibly innacurate list of the problems solved:
 [botcleanr]: http://www.hackerrank.com/challenges/botcleanr
 [mark-and-toys]: http://www.hackerrank.com/contests/aug13/challenges/mark-and-toys
 [journey-to-the-moon]: http://www.hackerrank.com/contests/aug13/challenges/journey-to-the-moon
+[sherlock-and-the-beast]: http://www.hackerrank.com/contests/sep13/challenges/sherlock-and-the-beast
