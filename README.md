@@ -122,7 +122,22 @@ included in this repository has its id specified between round brackets.
 
 #### 20/20 Hack October
 
+* [Chocolate Feast][chocolate-feast]
+* [Angry Children][angry-children]
+* [Angry Children 2][angry-children-2]
+* [Hackerx][missile-defend]
+* [Pseudo-Isomorphic Substrings][pseudo-isomorphic-substrings]
+* [Period][period]
+* [Craigslist Post Classifier: Identify the Category][craigslist-post-classifier-the-category]
+
 [1]: http://www.hackerrank.com
+[chocolate-feast]: http://www.hackerrank.com/contests/oct13/challenges/chocolate-feast
+[angry-children]: http://www.hackerrank.com/contests/oct13/challenges/angry-children
+[angry-children-2]: http://www.hackerrank.com/contests/oct13/challenges/angry-children-2
+[missile-defend]: http://www.hackerrank.com/contests/oct13/challenges/missile-defend
+[pseudo-isomorphic-substrings]: http://www.hackerrank.com/contests/oct13/challenges/pseudo-isomorphic-substrings
+[period]: http://www.hackerrank.com/contests/oct13/challenges/period
+[craigslist-post-classifier-the-category]: http://www.hackerrank.com/contests/oct13/challenges/craigslist-post-classifier-the-category
 [alien-languages]: http://www.hackerrank.com/contests/monthly/challenges/alien-languages
 [candies]: http://www.hackerrank.com/challenges/candies
 [coin-on-the-table]: http://www.hackerrank.com/challenges/coin-on-the-table
