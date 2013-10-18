@@ -22,9 +22,10 @@ the next one, replacing `candies` with the id of the desired problem:
 
     $ ./candies
 
-## Problems solved
+## Problems
 
-The following is a possibly innacurate list of the problems solved:
+The following is the list of available problems. Each problem whose solution is
+included in this repository has its id specified between round brackets.
 
 ### Artificial Intelligence
 
@@ -118,6 +119,8 @@ The following is a possibly innacurate list of the problems solved:
 #### 20/20 Hack September
 
 * [Sherlock and The Beast][sherlock-and-the-beast] (`sherlock-and-the-beast)
+
+#### 20/20 Hack October
 
 [1]: http://www.hackerrank.com
 [alien-languages]: http://www.hackerrank.com/contests/monthly/challenges/alien-languages
