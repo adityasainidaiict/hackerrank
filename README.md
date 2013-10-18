@@ -124,8 +124,8 @@ included in this repository has its id specified between round brackets.
 
 * [Chocolate Feast][chocolate-feast] (`chocolate-feast`)
 * [Angry Children][angry-children] (`angry-children`)
-* [Angry Children 2][angry-children-2]
-* [Hackerx][missile-defend]
+* [Angry Children 2][angry-children-2] (`angry-children-2`)
+* [HackerX][missile-defend]
 * [Pseudo-Isomorphic Substrings][pseudo-isomorphic-substrings]
 * [Period][period]
 * [Craigslist Post Classifier: Identify the Category][craigslist-post-classifier-the-category]
