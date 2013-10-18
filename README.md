@@ -123,7 +123,7 @@ included in this repository has its id specified between round brackets.
 #### 20/20 Hack October
 
 * [Chocolate Feast][chocolate-feast] (`chocolate-feast`)
-* [Angry Children][angry-children]
+* [Angry Children][angry-children] (`angry-children`)
 * [Angry Children 2][angry-children-2]
 * [Hackerx][missile-defend]
 * [Pseudo-Isomorphic Substrings][pseudo-isomorphic-substrings]
