@@ -118,7 +118,7 @@ included in this repository has its id specified between round brackets.
 
 #### 20/20 Hack September
 
-* [Sherlock and The Beast][sherlock-and-the-beast] (`sherlock-and-the-beast)
+* [Sherlock and The Beast][sherlock-and-the-beast] (`sherlock-and-the-beast`)
 
 #### 20/20 Hack October
 
