@@ -240,7 +240,7 @@ string getSumOfHackerrankNumbers(int A, int B) {
         long long rightCount = 0;
 
         for (long long y = 0; y <= limit; y++) {
-            long long limitX = 1 << rPad - 1;
+            long long limitX = (1 << rPad) - 1;
             while (limitX > 0 && ((y << rPad) + limitX) > B)
                 limitX--;
 
